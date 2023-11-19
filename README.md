@@ -1,8 +1,8 @@
 # Wind 💨: A REST API to get your discord status
 
 Wind is a simple REST API that allows users to get their discord
-status through API instead of Websockets. It's a great service
-for showing your status on a portfolio or something.
+status through API instead of Websockets. Its build on top of [`discord.go`](https://github.com/bwmarrin/discordgo).
+It's a great service for showing your status on a portfolio or something.
 
 ## Endpoints 🛣️
 ### `/presence`
